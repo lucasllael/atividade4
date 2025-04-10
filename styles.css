@@ -1,0 +1,21 @@
+
+#olaMundo {
+    color: darkorange;
+    font-family: Arial, sans-serif;
+  }
+  
+
+  #exemploId {
+    font-weight: bold;
+  }
+  
+
+  [name="exemploName"] {
+    font-style: italic;
+  }
+  
+
+  .exemploClasse {
+    color: blue;
+  }
+  
